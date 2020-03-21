@@ -1,5 +1,5 @@
 ---
-title: Finding meaning in chaos
+title: Finding my meaning, Utility Calculus & a Demon at the pub
 date: "2020-03-22T06:12:03.284Z"
 description: "What should I seek to maximise in my life & why"
 ---
