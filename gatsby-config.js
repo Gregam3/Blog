@@ -3,7 +3,7 @@ module.exports = {
     title: `Greg attempts reality`,
     author: {
       name: `Greg Mitten`,
-      summary: `A literal nobody`,
+      summary: `A self-indulgent nobody`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
