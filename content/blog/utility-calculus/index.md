@@ -6,13 +6,14 @@ description: "What should I seek to maximise in my life & why"
 It's 2016 and everything is great: objective reality, free will, truth, good & evil all exist. Wow epic!
 Things are simple & it's just great.
 
-Then I fuck up my hands real bad and can no longer program for hours on end, so I force myself to read to some books and, as usual, the philosophers came in with their fancy 
+Then I fuck up my hands real bad and I can no longer program for hours on end. In order to feed my addiction to feeling like I'm progressing, I force myself to read to some books. 
+I eventually get around to reading nonfiction and as usual, the philosophers came in with their fancy 
 ideas and ruined my state of existential peace (__BOO!__)
 
 ![fucking philosophers](socrates.png)
 
 So what now? Determined to find some answers I read some more books, this did not help the situation. Not learning my lesson I kept reading 
-and eventually I found Nietzche, who can be a real piece of shit sometimes but can be v. smart & based and I kinda like love him okay?
+and eventually I found Nietzche, who can be a real piece of shit sometimes but is also v. smart & based and I kinda like love him okay?
 
 In his bible 'Thus Spoke Zarathustra' he introduces this concept of the camel, the lion and the child.
 Very briefly: You're born and as you grow up society puts this ideological baggage onto you (clean your teeth, don't wear odd socks, try not to murder anyone, blah blah blah),
@@ -21,14 +22,14 @@ Then you might realise this has happened and try to fight back, throwing all the
 the child. This idea really resonated with me at the time as I think I was going through for the first time *1.
 
 Being free of baggage is pretty cool but it's also very vacuous, the framework(s) you used to understand the big picture are gone and you're face to face 
-with the overwhelming chaos of reality. So Nietzsche suggests you find your own meaning. I followed that suggestion and set out on a path to find my own meaning, what mattered to me?
+with the overwhelming chaos of reality. So Nietzsche suggests you find your own meaning. I followed that suggestion, so what mattered to me?
  
-This is perhaps too obvious to even need to be typed but: the root of all my desires if traced back far enough, lead to a belief of that 
+I traced the root of all my desires if traced back far enough, lead to a belief of that action
 making me happy. Desire for Money -> Derived from desire for Power -> Derived from desire for Respect -> Derived from desire for Happiness.
 So in a world where nothing matters, I could at the very least empirically verify that happiness, in it's most
 abstract form was desirable. There's also the opposite of happiness, which should be avoided as I could empirically verify, it was bad :(
 
-But Aristotle talks of there being two opposites, both happiness to sadness (negation) and also happiness to non-happiness (abscence) someone who
+But Aristotle talks of there being two opposites, not only  happiness to sadness (negation) but also happiness to non-happiness (absence) someone who
 is not happy is not necessarily sad. So we know I like happiness & dislike sadness, very controversial.
 
 But this isn't meaning, why should I live? What is meaningful about happiness?
@@ -45,8 +46,7 @@ __A Neutral day__: A theoretical day so perfectly balanced in terms of _good_ an
 
 
 Why does this matter? Because if I am actively enjoying being alive for that period, life itself is worth living. My meaning in life can be to maximise my personal remaining net happiness, 
-maximising my desire to continue living. My reason to live is that living is in itself, empirically worthwhile.
-
+maximising my desire to continue living. My reason to live is assuming I am living "happy days" on average, living is in itself worthwhile to me. My reason to live is to live.
 
  Now things are about to get _controversial_ so buckle your seat belts.
 
