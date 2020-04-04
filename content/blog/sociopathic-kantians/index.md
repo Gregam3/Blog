@@ -7,6 +7,9 @@ description: "Hypothetical of ethically bizarre societies"
 ## The philosophy behind the hypotheticals
 If you're already familiar with moral anti-realism & Kant's categorical imperative please skip ahead, one of my worst nightmares is mansplaining philosophy.
 
+### The definition of morality
+So I'm working with the definition that morality is what one ought to do to achieve some outcome deemed to be beneficial.
+
 ### Moral anti-realism
 Moral anti-realism is the belief that objective morality does not exist, nothing is objectively good or objectively evil. Even things society regards as abhorrent such 
 as mass murder, are not wrong or evil objectively in this framework. Moral anti-realism leaves room for relativist moral systems, but in our example we're going to ignore 
@@ -53,28 +56,26 @@ emotional desires.
 Right so personally I am a moral anti-realist, however I also have empathy, so the basis of what I will and will not do is entirely dependent on my emotions.
 This can be seen as quite worrying as if I had a brain injury which damaged wherever my empathy comes from, I would essentially act in complete self interest.
 Doing everything I possible could to further my own happiness even at the expense of others. 
-
-So lets create a 10 million humans with exactly this view 
+ 
 Let's create some societies. 
 
 __Society A__
 * No laws 
 * Everyone is a moral anti-realist
 * Everyone has high levels of empathy
+* People are roughly as dumb & emotional as in our society (very dumb and emotional)
 
 __Society ∀__
  * No laws
  * Everyone is a sociopath
+ * Everyone is relatively emotionless
  * Everyone is smart
- * Everyone is aware of the prior facts.
  * Everyone likes to murder
- * But everyone loves to live in a functioning society 
- * Everyone lives and breathes Kant, they just can't get enough of him. It's kinda unbearable to be honest.
+ * Everyone loves to live in a functioning society 
  * Everyone rationally holds the position of the categorical imperative
+ * Everyone is aware of the prior facts
 
-Society A & ∀ both have the same number of people & access to the same resources.
-
-Maybe you disagree with me but I believe that both societies will function perfectly fine, in fact I believe that society A functions worse than society ∀.
+Maybe you disagree with me but I believe that both societies will function perfectly fine in most circumstances, in fact I believe that society A functions worse than society ∀.
  
 ### Game Theory in Society ∀
 
@@ -88,14 +89,18 @@ This is exactly where the categorical imperative comes in, the sociopaths know t
  not murder each other, despite their desire to and the lack of legal consequences. 
  
 Well why the hell not? I believe these individuals will all come to 
-the same conclusion, that even if they were sure they could get murder in private, if they follow the logic of the imperative
+the same conclusion, that even if they were sure they could get  away with murder in private, if they follow the logic of the imperative
 then the society would break down. They all know that everyone else in the society has these desires and they know everyone would be secretly 
-murdering each other, and then the society would break down. More specifically everyone gets murder in the society except one person, in fact I 
-made a little program to simulate the phenomena.
+murdering each other, and then the society would break down. 
+
+Each individual sociopath upholds the imperative only because it is beneficial to oneself, if they were doubting that others would uphold
+the imperative they themselves would have no reason to uphold it either. This is the danger with this kind of pragmatic intellectual morals,
+they are only upheld when they function. So systematically the society breaks down and everyone stars murdering each other. More specifically everyone
+ gets murder in the society except one person, I made a little program to simulate the phenomena.
 
 ![Chicken dinner](kantian-sociopaths.gif)
 
-So a society full of sociopaths will be free of murder, despite their emotional desire all thanks to intellectual rationality. 
+And because they all know this would occur, our society full of sociopaths will be free of murder, despite their desires all thanks to intellectual morality. 
 
 ### How does Society A function?
 Society A would not function as a capitalist democracy, people do not feel sympathy for corporations and would relentless steal for them as there are not consequences. I speculate if we're to oversimplify 
@@ -106,17 +111,63 @@ Or alternatively others begin to steal from said person, as they do not feel gui
 So why do I believe that society ∀ functions "better" than society A, what does better even mean. The criteria I'm using is how the societies 
 adapt to hard times, almost any system can function to some extent when a society has an abundance of resources.
 
-## How do the societies deal with different scenarios?
+## How do the societies fair in hard times
+So let's just say hypothetical, there's some form of influenza virus sweeping across the world driving industries to a halt. In this scenario each
+society will have enough resources for every citizen but only as long as the citizen's do not take anymore resources than they need. Now the society ∀
+moral system actually adapts to this perfectly, because they want their society to keep functioning I believe much like in the aforementioned example
+that they will not take more resources than they need. 
 
-### Scenario 1 - Scarce resources
+However I believe that society A may begin to fall apart, because the issue of rationing is more in the intellectual realm and less the emotional,
+people might not see how "just taking a little bit more" to be safe is negatively impacting others, and therefore would not feel guilty and hence 
+individually may overstock. However those with inadequate resources to survive may reach out to others in order to try to get their share, this 
+may work on some level but it is doubtful that everyone in the society will be exposed to this begging. 
 
+Not Exposed to begging -> no guilt -> no sharing.
 
-  
+High empathy only effects individuals when they're aware of the suffering of others, ultimately what I'm trying to demonstrate is good old fashioned
+empathy only create morality when all the actors both: have good information & are intelligent enough to understand the consequences of their actions.
+Ignorance is bliss whilst you're ignorant of your ignorance. 
 
+Ultimately I believe in both societies people are simply acting in their own interests, it just so happens that the driving criteria in society ∀, 
+although contrived, produces better results for everyone. Sometimes in order to act in your own interests you must act in the interest of others.
 
+## The guilt cycles of moral choices in complex systems
+If I choose to buy a beef burger from McDonald's, this may seem inoffensive to almost everyone. But 
+the problem is I'm not just buying a pear, I'm interacting with many unseen actors: the McDonald's
+it's supplier, the company that transports the ingredients, the company that grows the wheat for the bun, etc. By purchasing the burger, I'm providing an 
+economic incentive to these actors to continue operating, without necessarily knowing a thing about their operations.
+ 
+Once your brain starts to crunch the moral algebra you can start feeling guilty about actions which previously seemed completely acceptable. 
 
+## How do these moral systems handle the burger problem
 
+Individually I still believe they fail to solve this problem. 
 
+If I'm acting purely on the categorical imperative, I am aware that buying the burger will contribute to climate change and that when everyone 
+follows this action it will make the world inhospitable for humans in the distant future. But ultimately I don't care, I won't be around then and
+I will not forgo the pleasure of the burger as I will see no ill effects.
 
+Morality based on empathy will simply not realise the consequences of buying the burger, as if we look at the immediate setting nothing is wrong
+the employee's at the McDonald's make a living from serving you the burger, the McDonald's owner profits and you get your delicious burger. Even 
+if you crunch the moral algebra and come out with the conclusion you can go down a spiral. 
 
+"I should feel bad about buying this burger as it contributes a lot of carbon to the environment, I'll just have fries"
 
+"The fries still contribute carbon to the environment, I'll just go home"
+
+"I won't drive I'll just walk, less carbon I guess I need a new car"
+
+"I'll buy this toyota that saves the environment by instantly killing me"
+
+![Ecocar](car.gif)
+
+This is a continuum fallacy, in order to escape this cycle of guilt there needs to be some means of estimating when enough is enough.
+This is where something like the categorical imperative comes in, maybe individually my actions are still contributing to climate change
+but if everyone were to act in the same way, making the same magnitude of sacrifices things would be okay, or at least not so fucked as they
+are now.
+
+It's only in the combination of these in which the action can be reconsidered, I'm using the intellectual morality to invoke the empathetic response.
+"I know this will negatively influence people in the future and I feel guilty about this/good for helping them". This combination is basically the 
+core of my morality, using intellectual moral models to calculate the decision which invokes the best emotional response.
+
+But the question is "So how do these moral systems solve this?". In this example they do, but they do not necessarily lead to ethical behaviour.
