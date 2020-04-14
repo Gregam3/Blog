@@ -16,11 +16,12 @@ as mass murder, are not wrong or evil objectively in this framework. Moral anti-
 this possibility. I could write a long article about why having this belief is rational but I'll leave that for another time.
 
 ### Kant's categorical imperative
+I'm aware there are multiple components to the categorical imperative, but for the sake of brevity lets leave it as this:
+
 The categorical imperative is the idea that in order for an action to be ethical a society would still have to function if said action were to be commit by everyone.
 For example by this standard skipping a vote is not ethical, as if no-one were to vote society would not function.
 
 ## Types of morality
-I believe that fundamentally there are two types of morality and they are almost always intertwined, in fact one often results as product of the other.
 
 ### Emotional morality
 The first type is emotional morality, some things simply feel wrong. There are obviously many reasons for this:
@@ -28,8 +29,9 @@ The first type is emotional morality, some things simply feel wrong. There are o
 * Empathy: This is Schopenhauer's view that morality is entirely derived from empathy
 * Societal conditioning: a society says that people being naked in public is immoral
 * New is bad: the insular cortex is the section of the brain responsible for producing disgust reactions, if someone is not socialised around some
-phenomena whilst they are young their insular cortex can produce this reaction when they see something new. For instance a person is brought up in a 
-totally heterosexual society, they see a gay couple and the reaction triggers. People conflate this reaction with a sense of moral justice.
+phenomena whilst they are young, their insular cortex can produce this reaction when they see something new. For instance a person is brought up in a 
+totally heterosexual society, they see a gay couple and the reaction triggers. People conflate this reaction with a sense of moral justice. There are many 
+mechanisms in the brain that can produce similar moral conclusions.
 
 ![Kant vs Schopenhauer](kant.png)
 
@@ -52,10 +54,7 @@ imperative. These ideas will still contain a lot of bias, as every idea does, bu
 emotional desires.
 
 
-## Let's get to the good shit
-Right so personally I am a moral anti-realist, however I also have empathy, so the basis of what I will and will not do is entirely dependent on my emotions.
-This can be seen as quite worrying as if I had a brain injury which damaged wherever my empathy comes from, I would essentially act in complete self interest.
-Doing everything I possible could to further my own happiness even at the expense of others. 
+## The Hypothetical Societies
  
 Let's create some societies. 
 
@@ -75,7 +74,7 @@ __Society ∀__
  * Everyone rationally holds the position of the categorical imperative
  * Everyone is aware of the prior facts
 
-Maybe you disagree with me but I believe that both societies will function perfectly fine in most circumstances, in fact I believe that society A functions worse than society ∀.
+I believe that both societies will function perfectly fine in most circumstances, please listen to me ramble on as I explain why.
  
 ### Game Theory in Society ∀
 
@@ -84,26 +83,30 @@ Well I think we need to get into some game theory to figure out why I think soci
 So in the [Prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma), even though we see both actions have the same 
 [expected value](https://en.wikipedia.org/wiki/Expected_value) in terms of years in prison, people generally lean to the idea that it is better to try to betray your 
 partner. There's actually a British gameshow based on this called _Golden Balls_ and it's just horrible to watch. Regardless you could cite 
-the prisoner's dilemma and say: "If people have an inclination to betray, why would sociopaths of all people not betray their comrades in society ∀?".
+the prisoner's dilemma and say: "If people have an inclination to betray, why would sociopaths, of all people not betray their compatriots in society ∀?".
 This is exactly where the categorical imperative comes in, the sociopaths know that no one in the society has empathy & so I claim that people will
  not murder each other, despite their desire to and the lack of legal consequences. 
  
-Well why the hell not? I believe these individuals will all come to 
-the same conclusion, that even if they were sure they could get  away with murder in private, if they follow the logic of the imperative
-then the society would break down. They all know that everyone else in the society has these desires and they know everyone would be secretly 
-murdering each other, and then the society would break down. 
+I believe these individuals will all come to 
+the same conclusion, that in order to pursue their own interests they must behave in a quasi altrustic manner. 
+Even if they were sure they could get  away with murder in private, if they follow the logic of the categorical imperative the society holds together.
+They all know that everyone else in the society has these desires and they know everyone would be secretly 
+murdering each other, and then the society would break down.
 
-Each individual sociopath upholds the imperative only because it is beneficial to oneself, if they were doubting that others would uphold
-the imperative they themselves would have no reason to uphold it either. This is the danger with this kind of pragmatic intellectual morals,
-they are only upheld when they function. So systematically the society breaks down and everyone stars murdering each other. More specifically everyone
- gets murder in the society except one person, I made a little program to simulate the phenomena.
+Okay so I know it's contrived but  in this scenario a society of murderous sociopaths has no murder at all, weird right. 
 
-![Chicken dinner](kantian-sociopaths.gif)
+#### The Alternative, just for fun
+Each individual sociopath upholds the imperative only because it is beneficial to themselves but in doing so they allow their entire society to function,
+if they doubted that others would uphold the imperative they themselves would have no reason to uphold it either. 
 
-And because they all know this would occur, our society full of sociopaths will be free of murder, despite their desires all thanks to intellectual morality. 
+This is the danger with this kind of pragmatic intellectual morals,
+they are only upheld when they function. So if one does not believe others will uphold the morals, they will break them too. In this example this would lead to everyone murdering each other.
+More specifically everyone gets murdered in the society except one person, the person who commits the final murder, I made a little program to simulate the phenomena.
+
+![Battle Royale](kantian-sociopaths.gif)
 
 ### How does Society A function?
-Society A would not function as a capitalist democracy, people do not feel sympathy for corporations and would relentless steal for them as there are not consequences. I speculate if we're to oversimplify 
+Society A would not function as a capitalist democracy, people do not feel sympathy for corporations and would relentlessly steal from them as there are not consequences. I speculate if we're to oversimplify 
 the situation that society A could function as a barter economy. There would be a kind of natural equilibrium in this society, whenever someone noticably amasses too much wealth,
 they either begin to give away their resources to the needy (as they feel guilty, they have high empathy). 
 Or alternatively others begin to steal from said person, as they do not feel guilty from stealing from someone with excessive wealth. 
@@ -133,13 +136,12 @@ although contrived, produces better results for everyone. Sometimes in order to 
 
 ## The guilt cycles of moral choices in complex systems
 If I choose to buy a beef burger from McDonald's, this may seem inoffensive to almost everyone. But 
-the problem is I'm not just buying a pear, I'm interacting with many unseen actors: the McDonald's
+the problem is I'm not just paying the cashier for the burger, I'm interacting with many unseen actors: the McDonald's
 it's supplier, the company that transports the ingredients, the company that grows the wheat for the bun, etc. By purchasing the burger, I'm providing an 
 economic incentive to these actors to continue operating, without necessarily knowing a thing about their operations.
  
-Once your brain starts to crunch the moral algebra you can start feeling guilty about actions which previously seemed completely acceptable. 
-
-## How do these moral systems handle the burger problem
+Once your brain starts to crunch the moral algebra you can start feeling guilty about actions which previously seemed completely acceptable. This is known as 
+cognitive empathy.
 
 Individually I still believe they fail to solve this problem. 
 
@@ -148,20 +150,22 @@ follows this action it will make the world inhospitable for humans in the distan
 I will not forgo the pleasure of the burger as I will see no ill effects.
 
 Morality based on empathy will simply not realise the consequences of buying the burger, as if we look at the immediate setting nothing is wrong
-the employee's at the McDonald's make a living from serving you the burger, the McDonald's owner profits and you get your delicious burger. Even 
-if you crunch the moral algebra and come out with the conclusion you can go down a spiral. 
+the employee's at the McDonald's make a living from serving you the burger, the McDonald's owner profits and you get your delicious burger. But 
+if you crunch the moral algebra with _cognitive empathy_ and come out with the conclusion you can go down a spiral. 
 
 "I should feel bad about buying this burger as it contributes a lot of carbon to the environment, I'll just have fries"
 
 "The fries still contribute carbon to the environment, I'll just go home"
 
-"I won't drive I'll just walk, less carbon I guess I need a new car"
+"I won't drive I'll just walk, less carbon. I guess I need a new car if I ever want to drive"
 
 "I'll buy this toyota that saves the environment by instantly killing me"
 
 ![Ecocar](car.gif)
 
-This is a continuum fallacy, in order to escape this cycle of guilt there needs to be some means of estimating when enough is enough.
+This is a continuum fallacy, in order to escape this cycle of guilt there needs to be some means of estimating when enough is enough. The problem with cognitive empathy and a 
+complex system like capitalism is it's basically impossible to work out when something is not right and hence when to feel guilt. This often leads to people either not feeling
+guilty about any of their indirectly immoral actions, or feeling guilty about all of them.
 This is where something like the categorical imperative comes in, maybe individually my actions are still contributing to climate change
 but if everyone were to act in the same way, making the same magnitude of sacrifices things would be okay, or at least not so fucked as they
 are now.
@@ -170,4 +174,3 @@ It's only in the combination of these in which the action can be reconsidered, I
 "I know this will negatively influence people in the future and I feel guilty about this/good for helping them". This combination is basically the 
 core of my morality, using intellectual moral models to calculate the decision which invokes the best emotional response.
 
-But the question is "So how do these moral systems solve this?". In this example they do, but they do not necessarily lead to ethical behaviour.
